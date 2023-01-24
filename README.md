@@ -9,7 +9,7 @@
 
 
 ## Background
-Recreating the famous Pong game using Java
+Recreating the famous Pong game using Java language
 
 
 
